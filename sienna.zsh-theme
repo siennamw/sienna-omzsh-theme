@@ -88,7 +88,7 @@ function ruby_prompt {
 
 function node_prompt {
     if which node &> /dev/null; then
-        print -n $' using %F{29}'
+        print -n $' using %F{29}node-'
         print -n $(node -v)
         print -n $'%f'
     fi
