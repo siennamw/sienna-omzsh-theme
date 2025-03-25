@@ -1,2 +1,2 @@
 # sienna-omzsh-theme
-personal theme for Oh My Zsh
+personal themes for Oh My Zsh
