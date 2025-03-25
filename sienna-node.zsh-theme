@@ -1,4 +1,4 @@
-# based on steef theme at https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/sienna.zsh-theme
+# based on steeef theme at https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/steeef.zsh-theme
 # with node version prompt from https://gist.github.com/mikehazell/e2d4d77575ace164e636ec2347a24697
 
 # use extended color palette if available
