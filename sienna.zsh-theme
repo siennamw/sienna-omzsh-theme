@@ -76,9 +76,9 @@ add-zsh-hook chpwd sienna_chpwd
 
 function python_prompt {
   local version
-  version=$(python --version 2>/dev/null)
+  version=$(pyenv version-name 2>/dev/null)
   if [[ -n "$version" ]]; then
-    print -n $' using %F{75}'
+    print -n $' using %F{75}Python '
     print -n $version
     print -n $'%f'
   fi
