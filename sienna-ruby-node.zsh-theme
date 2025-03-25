@@ -1,4 +1,4 @@
-# based on steef theme at https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/sienna.zsh-theme
+# based on steef theme at https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/steef.zsh-theme
 # with node version prompt from https://gist.github.com/mikehazell/e2d4d77575ace164e636ec2347a24697
 # and with ruby version prompt from suvash theme at https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/suvash.zsh-theme
 
